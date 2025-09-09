@@ -14,7 +14,14 @@
           </div>
     </div><br>
 <div align= "center">
-
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Skills  </h2>
-    - Operating Systems : Ubuntu, RTOS
+    • Operating Systems : Ubuntu, RTOS <br>
+    • Embedded Systems : STM32, Raspberry Pi, Arduino, Mpino <br>
+    • BSP : U-Boot, Linux Kernel, Device Driver <br>
+    • Tools : STM32CubeIDE,  <br>
+    • Libraries & Frameworks : QT, ROS2 <br>
+    </ul>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Project  </h2>
+  
