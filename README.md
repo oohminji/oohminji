@@ -1,27 +1,35 @@
+<div align="left">
 
-<!--
-**oohminji/oohminji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## Tech Stack  
 
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Tech Stack  </h2>
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          </div>
-    </div><br>
-<div align= "center">
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Skills  </h2>
-    • Operating Systems : Ubuntu, RTOS <br>
-    • Embedded Systems : STM32, Raspberry Pi, Arduino, Mpino <br>
-    • BSP : U-Boot, Linux Kernel, Device Driver <br>
-    • Tools : STM32CubeIDE,  <br>
-    • Libraries & Frameworks : QT, ROS2 <br>
-    </ul>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Project  </h2>
-  
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+</div>
+
+<div align="left">
+
+## Skills  
+
+- **Operating Systems**: Ubuntu, FreeRTOS, Linux Kernel  
+- **Embedded Systems**: STM32, ATmega128, Raspberry Pi  
+- **BSP & Drivers**: Bootloader, Device Driver, U-Boot  
+- **Tools**: STM32CubeIDE, QtCreator  
+- **Libraries & Frameworks**: ROS2  
+- **Communication Protocols**: TCP/IP, UART, I2C
+
+</div>
+
+<div align="left">
+
+## Project  
+
+- **Auto CPR Machine**
+
+- **Smart Helmet**
+
+- **화장품 디스펜서**
+
+</div>
