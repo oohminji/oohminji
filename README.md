@@ -26,10 +26,9 @@
 
 ## Project  
 
-- **Auto CPR Machine**
+- **Auto CPR Machine** : 
 
-- **Smart Helmet**
-
+- **STM32 프로젝트** : [Smart Helmet](https://github.com/oohminji/MiniProject_Helmet)
 - **화장품 디스펜서**
 
 </div>
