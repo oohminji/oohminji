@@ -27,7 +27,7 @@
 ## Project  
 
 - **STM32 프로젝트** : [Smart Helmet](https://github.com/oohminji/MiniProject_Helmet)
-- **화장품 디스펜서**
+- **화장품 디스펜서** :
 
 </div>
 
@@ -35,6 +35,6 @@
 
 ## Study
 - **STM32 Peripheral** : [신호등 제어](https://github.com/oohminji/STM32-Peripheral)
-- **STM BootLoader** :
+- **STM BootLoader** : [부트로더](https://github.com/oohminji/STM_BootLoader)
 
 
