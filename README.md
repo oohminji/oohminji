@@ -34,7 +34,7 @@
 <div align="left">
 
 ## Study
-- **신호등제어** :
+- **STM32 Peripheral** : [신호등 제어](https://github.com/oohminji/STM32-Peripheral)
 - **STM BootLoader** :
 
 
