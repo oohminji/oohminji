@@ -25,9 +25,8 @@
 <div align="left">
 
 ## Project  
-
 - **STM32 프로젝트** : [Smart Helmet](https://github.com/oohminji/MiniProject_Helmet)
-- **화장품 추천 디스펜서** : [Intel project](https://github.com/oohminji/intel-project)
+- **기초 화장품 추천 디스펜서** : [Cosmetics Dispenser](https://github.com/oohminji/intel-project)
 
 </div>
 
