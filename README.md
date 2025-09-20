@@ -25,15 +25,36 @@
 <div align="left">
 
 ## Project  
-- **스마트 안전모** : [Smart Helmet](https://github.com/yundongjun/stm32-auther-module)
-- **기초 화장품 추천 디스펜서** : [Cosmetics Dispenser](https://github.com/oohminji/intel-project)
+ **<[Smart Helmet](https://github.com/yundongjun/stm32-auther-module)**>
+ > **Summary<br>**
+ > - 산업 현장에서의 사고를 예방하기 위한 스마트 안전모
+
+ > **맡은 역할<br>**  
+ > - STM32를 활용한 **초음파 센서, 부저 제어 로직** 구현 <br> 
+ > - 초음파 센서로 위험을 감지하고 서버와 와이파이 통신하여 사고 알림  
+
+ > **사용 기술<br>** 
+ > `C` `STM32CubeIDE` `Timer` `PWM` `Wifi`
+  
+**<[Cosmetics Dispenser](https://github.com/oohminji/intel-project)**>
+ > **Summary<br>**
+ > - 고객의 피부 진단을 하여 맞춤형 기초 화장품 제공 디스펜서
+
+ > **맡은 역할<br>**  
+ > - STM32를 활용한 **서보 모터, LED 제어 로직** 구현 <br> 
+ > - Raspberry pi 서버로부터 UART통신으로 피부 진단 값을 받아 화장품 제공
+
+ > **사용 기술<br>** 
+ > `C` `STM32CubeIDE` `freeRtos` `Uart` `PWM` `DMA` `Semaphore`
 
 </div>
 
 <div align="left">
 
 ## Study
-- **STM32 Peripheral** : [신호등 제어](https://github.com/oohminji/STM32-Peripheral)
-- **STM32 BootLoader** : [부트로더](https://github.com/oohminji/STM_BootLoader)
+**[신호등 제어](https://github.com/oohminji/STM32-Peripheral)** 
+> STM32기반 `C` `STM32CubeIDE` `Inturrupt` `Time/Counter` `PWM` `ADC` 신호등 <br>
 
+**[부트로더](https://github.com/oohminji/STM_BootLoader)** <br> 
+> STM32기반 BootLoader
 
