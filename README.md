@@ -34,7 +34,7 @@
  > - 초음파 센서로 위험을 감지하고 서버와 와이파이 통신하여 사고 알림  
 
  > **Tech<br>** 
- > `C` `STM32CubeIDE` `Timer` `PWM` `Wifi`
+ > `C` `STM32CubeIDE` `Timer/Counter` `Wifi` `Raspberry Pi`
   
 🧴 **[Cosmetics Dispenser](https://github.com/oohminji/intel-project)**
  > **Summary<br>**
@@ -56,5 +56,5 @@
 > STM32기반 `C` `STM32CubeIDE` `Inturrupt` `Time/Counter` `PWM` `ADC` 신호등 <br>
 
 **[부트로더](https://github.com/oohminji/STM_BootLoader)** <br> 
-> STM32기반 BootLoader
+> STM32기반 BootLoader `Main Flash memory Boot modes`
 
