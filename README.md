@@ -58,3 +58,5 @@
 **[부트로더](https://github.com/oohminji/STM_BootLoader)** <br> 
 > STM32기반 BootLoader `Main Flash memory Boot modes`
 
+## Certificate
+[증명서](https://www.notion.so/2750b37126ad809cbeb6d4fc35157670?source=copy_link)
