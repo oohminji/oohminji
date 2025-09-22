@@ -25,9 +25,9 @@
 <div align="left">
 
 ## Project  
- ❤️‍🩹 **[Auto_CPR](https://github.com/oohminji/Auto_CPR_Machine)**
+ 🫀 **[Auto_CPR](https://github.com/oohminji/Auto_CPR_Machine)**
  > **Summary<br>**
- > - 심정지 환자의 흉부에 자동 심폐소생술
+ > - 심정지 환자를 위한 자동 심폐소생기
 
  > **Role<br>**  
  > - Mpino를 활용한 **압박 센서, 리니어 액추에이터, 리니어 레일** 구현 <br>
