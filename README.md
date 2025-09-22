@@ -47,6 +47,15 @@
  > **Tech<br>** 
  > `C` `STM32CubeIDE` `freeRtos` `Uart` `DMA` `PWM` `Semaphore`
 
+📷 **[Panorama](https://github.com/SulfurCamp/Intel_OpenCV_Project_Team2)**
+ > **Summary<br>**
+ > - Open CV를 이용한 이미지 
+
+ > **Role<br>**  
+ > - QT를 활용한 **UI & 캐릭터 프레임** 구현 <br> 
+
+ > **Tech<br>** 
+ > `C++` `QT Creator` `WebCamera`
 </div>
 
 <div align="left">
