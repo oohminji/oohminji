@@ -33,7 +33,8 @@
  > - Mpino를 활용한 **압박 센서, 리니어 액추에이터, 리니어 레일** 구현 <br> 
 
  > **Tech<br>** 
- > `C` `C++` `Mpino` `Arduino` `I2C`
+ > `C` `C++` `Mpino` `Arduino` `I2C`<br>
+ 
  ⛑️ **[Smart Helmet](https://github.com/yundongjun/stm32-auther-module)**
  > **Summary<br>**
  > - 산업 현장에서의 사고를 예방하기 위한 스마트 안전모
