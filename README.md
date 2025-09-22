@@ -25,6 +25,15 @@
 <div align="left">
 
 ## Project  
+ ❤️‍🩹 **[Auto_CPR](https://github.com/oohminji/Auto_CPR_Machine)**
+ > **Summary<br>**
+ > - 심정지 환자의 흉부에 자동 심폐소생술
+
+ > **Role<br>**  
+ > - Mpino를 활용한 **압박 센서, 리니어 액추에이터, 리니어 레일** 구현 <br> 
+
+ > **Tech<br>** 
+ > `C` `C++` `Mpino` `Arduino` `I2C`
  ⛑️ **[Smart Helmet](https://github.com/yundongjun/stm32-auther-module)**
  > **Summary<br>**
  > - 산업 현장에서의 사고를 예방하기 위한 스마트 안전모
@@ -56,16 +65,6 @@
 
  > **Tech<br>** 
  > `C++` `QT Creator` `WebCamera`
-
-❤️‍🩹 **[Auto_CPR](https://github.com/oohminji/Auto_CPR_Machine)**
- > **Summary<br>**
- > - 심정지 환자의 흉부에 자동 심폐소생술
-
- > **Role<br>**  
- > - Mpino를 활용한 **압박 센서, 리니어 액추에이터, 리니어 레일** 구현 <br> 
-
- > **Tech<br>** 
- > `C` `C++` `Mpino` `Arduino` `I2C`
 </div>
 
 <div align="left">
