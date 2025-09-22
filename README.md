@@ -31,7 +31,7 @@
 
  > **Role<br>**  
  > - Mpino를 활용한 **압박 센서, 리니어 액추에이터, 리니어 레일** 구현 <br>
- > - Mpino와 Arduino의 Master&Slave I2C통신 
+ > - Mpino와 Arduino의 Master&Slave **I2C** 통신 
 
  > **Tech<br>** 
  > `C` `C++` `Mpino` `Arduino` `I2C`<br>
@@ -42,7 +42,7 @@
 
  > **Role<br>**  
  > - STM32를 활용한 **초음파 센서, 부저 제어 로직** 구현 <br> 
- > - 초음파 센서로 위험을 감지하고 서버와 와이파이 통신하여 사고 알림  
+ > - 초음파 센서로 위험을 감지하고 서버와 **WiFi** 통신하여 사고 알림  
 
  > **Tech<br>** 
  > `C` `STM32CubeIDE` `Timer/Counter` `Wifi` `Raspberry Pi`
@@ -53,7 +53,7 @@
 
  > **Role<br>**  
  > - STM32를 활용한 **서보 모터, LED 제어 로직** 구현 <br> 
- > - Raspberry pi 서버로부터 UART통신으로 피부 진단 값을 받아 화장품 제공
+ > - Raspberry pi 서버로부터 **UART** 통신으로 피부 진단 값을 받아 화장품 제공
 
  > **Tech<br>** 
  > `C` `STM32CubeIDE` `freeRtos` `Uart` `DMA` `PWM` `Semaphore`
