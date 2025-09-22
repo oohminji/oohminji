@@ -56,6 +56,16 @@
 
  > **Tech<br>** 
  > `C++` `QT Creator` `WebCamera`
+
+📷 **[Auto_CPR](https://github.com/oohminji/Auto_CPR_Machine)**
+ > **Summary<br>**
+ > - 심정지 환자의 환부에 자동 심폐소생술
+
+ > **Role<br>**  
+ > - Mpino를 활용한 **압박 센서, DC Motor, ** 구현 <br> 
+
+ > **Tech<br>** 
+ > `C` `C++` `Mpino` `Arduino` `I2C`
 </div>
 
 <div align="left">
