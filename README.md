@@ -68,4 +68,5 @@
 > STM32기반 BootLoader `Main Flash memory Boot modes`
 
 ## Certificate
-[증명서](https://www.notion.so/2750b37126ad809cbeb6d4fc35157670?source=copy_link)
+[앰코테크놀로지 인턴](https://github.com/user-attachments/files/22459677/default.pdf)
+
