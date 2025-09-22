@@ -30,7 +30,8 @@
  > - 심정지 환자의 흉부에 자동 심폐소생술
 
  > **Role<br>**  
- > - Mpino를 활용한 **압박 센서, 리니어 액추에이터, 리니어 레일** 구현 <br> 
+ > - Mpino를 활용한 **압박 센서, 리니어 액추에이터, 리니어 레일** 구현 <br>
+ > - Mpino와 Arduino의 Master&Slave I2C통신 
 
  > **Tech<br>** 
  > `C` `C++` `Mpino` `Arduino` `I2C`<br>
