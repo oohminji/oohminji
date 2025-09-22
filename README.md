@@ -14,7 +14,7 @@
 ## Skills  
 
 - **Operating Systems**: Ubuntu, FreeRTOS, Linux Kernel  
-- **Embedded Systems**: STM32, ATmega128, Raspberry Pi  
+- **Embedded Systems**: STM32, ATmega128, Raspberry Pi, Mpino, Arduino
 - **BSP & Drivers**: Bootloader, Device Driver, U-Boot  
 - **Tools**: STM32CubeIDE, QtCreator  
 - **Libraries & Frameworks**: ROS2  
