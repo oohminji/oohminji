@@ -68,5 +68,10 @@
 > STM32기반 BootLoader `Main Flash memory Boot modes`
 
 ## Certificate
-[앰코테크놀로지 인턴](https://github.com/user-attachments/files/22459677/default.pdf)
+[인턴-앰코테크놀로지](https://github.com/user-attachments/files/22459677/default.pdf)<br>
+[국내 현장실습- 에이블모터스](https://github.com/user-attachments/files/22459696/default.pdf)<br>
+[최종학력증명서](https://github.com/user-attachments/files/22459710/default.pdf)
+
+
+
 
