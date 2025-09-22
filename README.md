@@ -49,7 +49,7 @@
 
 📷 **[Panorama](https://github.com/SulfurCamp/Intel_OpenCV_Project_Team2)**
  > **Summary<br>**
- > - OpenCV를 사용한 연속된 이미지를 파노라마 이미지로 합성
+ > - OpenCV를 기반한 파노라마 이미지 생성 및 Face Detection을 통한 캐릭터 프레임 적용
 
  > **Role<br>**  
  > - QT를 활용한 **UI & 캐릭터 프레임** 구현 <br> 
