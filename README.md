@@ -66,7 +66,7 @@
  > - QT를 활용한 **UI & 캐릭터 프레임** 구현 <br> 
 
  > **Tech<br>** 
- > `C++` `QT Creator` `WebCamera`
+ > `C++` `QT Creator` `OpenCV`
 </div>
 
 <div align="left">
