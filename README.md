@@ -67,6 +67,18 @@
 
  > **Tech<br>** 
  > `C++` `QT Creator` `OpenCV`
+
+
+🚗 **[V2V](https://github.com/SugarG-G/Intel7_Final_Project_5_Team)**
+ > **Summary<br>**
+ > - ROS2를 기반한 군집 자율주행과 경작지 관리 시스템
+
+ > **Role<br>**  
+ > - STM32를 활용한 **로봇팔** 구현 <br>
+ > -  ROS2기반 서비스 톧신 **로봇팔 노드** 구현 <br> 
+
+ > **Tech<br>** 
+ > `C++` `C` `ROS2` `freeRTOS` `Uart`
 </div>
 
 <div align="left">
